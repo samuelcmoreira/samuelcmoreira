@@ -47,9 +47,3 @@ API REST em Java 21 + Spring Boot para gestão de loja de tintas, com integraç�
 
 **[API de Conta Bancária com Autenticação IoT](https://github.com/samuelcmoreira/senai-conta-bancaria-spring-api)**
 Simulação de sistema bancário com módulo de segurança diferenciado: validação biométrica via MQTT como camada extra de autenticação para transações financeiras (saques, transferências, pagamentos).
-
----
-
-<p align="center">
-  <i>Aberto a oportunidades e colaborações em projetos backend Java/Spring</i>
-</p>
